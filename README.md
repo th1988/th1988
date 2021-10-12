@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
   
 <a href="https://app.daily.dev/thimbert">
-  <img src="https://github.com/th1988/th1988/blob/master/devcard.svg" width="400" alt="Thomas Himbert's Dev Card"/>
+  <img src="https://github.com/th1988/th1988/blob/main/devcard.svg" width="400" alt="Thomas Himbert's Dev Card"/>
 </a>
