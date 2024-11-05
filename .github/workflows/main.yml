@@ -21,8 +21,10 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
+    permissions:
+      contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.5
+        uses: dailydotdev/action-devcard@3.2.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.USER_ID }}
