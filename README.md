@@ -1,20 +1,23 @@
-### Hi there 👋
+### Hi, ich bin Thomas
 
-<!--
-**th1988/th1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue gern kleine, lokale Tools, die echte Alltagsreibung reduzieren: CLI-Helfer, private Analyse-Workflows, mobile Mini-Apps und gelegentlich sehr persönliche Web-Erlebnisse.
 
-Here are some ideas to get you started:
+#### Aktuelle Fokusprojekte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+- **TableTap**: lokale mobile Service-App für Tisch- und Bestellübersicht.
+- **Govee Light CLI**: LAN-first Lichtfeedback für lokale Entwicklungsabläufe.
+- **ErasePilot**: Ruby-CLI für DSGVO-Löschanfragen und lokalen Status.
+- **DAS Quiz**: Alexa-Quiz-MVP mit generierten Frage- und Dashboard-Workflows.
+- **Finanzguru Analyse**: private Finanzanalyse-Skripte ohne committed Rohdaten.
+- **Deep Sea Drift LoFi**: visuelles LoFi-YouTube-Projekt mit Deep-Sea-Ästhetik.
+
+#### Arbeitsstil
+
+- kleine, reviewbare PRs
+- GitHub Issues und PRs als operative Wahrheit
+- lokale-first, pragmatische Tools vor großen Plattformen
+- kein Commit von Secrets, Rohdaten oder privaten Exporten
+
 <a href="https://app.daily.dev/thimbert">
   <img src="https://github.com/th1988/th1988/blob/main/devcard.svg" width="400" alt="Thomas Himbert's Dev Card"/>
 </a>
